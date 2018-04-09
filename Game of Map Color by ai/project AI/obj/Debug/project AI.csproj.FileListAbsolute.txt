@@ -1,0 +1,20 @@
+E:\university\project AI\project AI\bin\Debug\project AI.exe.config
+E:\university\project AI\project AI\bin\Debug\project AI.exe
+E:\university\project AI\project AI\bin\Debug\project AI.pdb
+E:\university\project AI\project AI\obj\Debug\project AI.csprojResolveAssemblyReference.cache
+E:\university\project AI\project AI\obj\Debug\project_AI.Form1.resources
+E:\university\project AI\project AI\obj\Debug\project_AI.Properties.Resources.resources
+E:\university\project AI\project AI\obj\Debug\project AI.csproj.GenerateResource.Cache
+E:\university\project AI\project AI\obj\Debug\project AI.exe
+E:\university\project AI\project AI\obj\Debug\project AI.pdb
+E:\university\project AI\project AI\obj\Debug\project_AI.Form2.resources
+E:\university\third CS\project AI\project AI\bin\Debug\project AI.exe.config
+E:\university\third CS\project AI\project AI\obj\Debug\project AI.exe
+E:\university\third CS\project AI\project AI\obj\Debug\project AI.pdb
+E:\university\third CS\project AI\project AI\bin\Debug\project AI.exe
+E:\university\third CS\project AI\project AI\bin\Debug\project AI.pdb
+E:\university\third CS\project AI\project AI\obj\Debug\project AI.csprojResolveAssemblyReference.cache
+E:\university\third CS\project AI\project AI\obj\Debug\project_AI.Form1.resources
+E:\university\third CS\project AI\project AI\obj\Debug\project_AI.Form2.resources
+E:\university\third CS\project AI\project AI\obj\Debug\project_AI.Properties.Resources.resources
+E:\university\third CS\project AI\project AI\obj\Debug\project AI.csproj.GenerateResource.Cache
