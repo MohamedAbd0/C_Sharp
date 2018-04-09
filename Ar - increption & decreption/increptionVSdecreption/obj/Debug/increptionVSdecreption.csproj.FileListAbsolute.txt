@@ -1,0 +1,18 @@
+E:\university\third CS\Term 2\Operating System 2\Project\increptionVSdecreption\increptionVSdecreption\bin\Debug\increptionVSdecreption.exe.config
+E:\university\third CS\Term 2\Operating System 2\Project\increptionVSdecreption\increptionVSdecreption\obj\Debug\increptionVSdecreption.csprojResolveAssemblyReference.cache
+E:\university\third CS\Term 2\Operating System 2\Project\increptionVSdecreption\increptionVSdecreption\obj\Debug\increptionVSdecreption.Form1.resources
+E:\university\third CS\Term 2\Operating System 2\Project\increptionVSdecreption\increptionVSdecreption\obj\Debug\increptionVSdecreption.Properties.Resources.resources
+E:\university\third CS\Term 2\Operating System 2\Project\increptionVSdecreption\increptionVSdecreption\obj\Debug\increptionVSdecreption.csproj.GenerateResource.Cache
+E:\university\third CS\Term 2\Operating System 2\Project\increptionVSdecreption\increptionVSdecreption\bin\Debug\increptionVSdecreption.exe
+E:\university\third CS\Term 2\Operating System 2\Project\increptionVSdecreption\increptionVSdecreption\bin\Debug\increptionVSdecreption.pdb
+E:\university\third CS\Term 2\Operating System 2\Project\increptionVSdecreption\increptionVSdecreption\obj\Debug\increptionVSdecreption.exe
+E:\university\third CS\Term 2\Operating System 2\Project\increptionVSdecreption\increptionVSdecreption\obj\Debug\increptionVSdecreption.pdb
+C:\Users\moham\Downloads\Downloads\increptionVSdecreption\increptionVSdecreption\bin\Debug\increptionVSdecreption.exe.config
+C:\Users\moham\Downloads\Downloads\increptionVSdecreption\increptionVSdecreption\obj\Debug\increptionVSdecreption.exe
+C:\Users\moham\Downloads\Downloads\increptionVSdecreption\increptionVSdecreption\obj\Debug\increptionVSdecreption.pdb
+C:\Users\moham\Downloads\Downloads\increptionVSdecreption\increptionVSdecreption\bin\Debug\increptionVSdecreption.exe
+C:\Users\moham\Downloads\Downloads\increptionVSdecreption\increptionVSdecreption\bin\Debug\increptionVSdecreption.pdb
+C:\Users\moham\Downloads\Downloads\increptionVSdecreption\increptionVSdecreption\obj\Debug\increptionVSdecreption.csprojResolveAssemblyReference.cache
+C:\Users\moham\Downloads\Downloads\increptionVSdecreption\increptionVSdecreption\obj\Debug\increptionVSdecreption.Form1.resources
+C:\Users\moham\Downloads\Downloads\increptionVSdecreption\increptionVSdecreption\obj\Debug\increptionVSdecreption.Properties.Resources.resources
+C:\Users\moham\Downloads\Downloads\increptionVSdecreption\increptionVSdecreption\obj\Debug\increptionVSdecreption.csproj.GenerateResource.Cache

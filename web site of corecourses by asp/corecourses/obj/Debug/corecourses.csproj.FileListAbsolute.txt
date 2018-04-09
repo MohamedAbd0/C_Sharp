@@ -1,0 +1,12 @@
+E:\university\مشروع SE\corecourses\corecourses\bin\corecourses.dll.config
+E:\university\مشروع SE\corecourses\corecourses\bin\corecourses.dll
+E:\university\مشروع SE\corecourses\corecourses\bin\corecourses.pdb
+E:\university\مشروع SE\corecourses\corecourses\obj\Debug\corecourses.csprojResolveAssemblyReference.cache
+E:\university\مشروع SE\corecourses\corecourses\obj\Debug\corecourses.dll
+E:\university\مشروع SE\corecourses\corecourses\obj\Debug\corecourses.pdb
+E:\PC\facebook-M0hamed3bdo\messages\files\files\corecourses\corecourses\bin\corecourses.dll.config
+E:\PC\facebook-M0hamed3bdo\messages\files\files\corecourses\corecourses\bin\corecourses.dll
+E:\PC\facebook-M0hamed3bdo\messages\files\files\corecourses\corecourses\bin\corecourses.pdb
+E:\PC\facebook-M0hamed3bdo\messages\files\files\corecourses\corecourses\obj\Debug\corecourses.csprojResolveAssemblyReference.cache
+E:\PC\facebook-M0hamed3bdo\messages\files\files\corecourses\corecourses\obj\Debug\corecourses.dll
+E:\PC\facebook-M0hamed3bdo\messages\files\files\corecourses\corecourses\obj\Debug\corecourses.pdb

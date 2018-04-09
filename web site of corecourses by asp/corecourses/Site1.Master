@@ -1,0 +1,75 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="corecourses.Site1" %>
+
+<!DOCTYPE html>
+
+<html xml:lang="en" lang="en">
+<head> 
+    <!-- CSS -->
+    <link rel="stylesheet" href="./كورسات_files/bootstrap.css">
+    <link rel="stylesheet" href="./كورسات_files/bootstrap.rtl.css">
+    <link rel="stylesheet" href="./كورسات_files/font-awesome.min.css">
+    <link rel="stylesheet" href="./كورسات_files/style.css">
+    <link rel="stylesheet" href="./كورسات_files/rtl-xtra.css">
+<link rel="shortcut icon" type="image/x-icon" href="coursat.png">
+    <!-- JavaScript -->
+    <script async="" src="./كورسات_files/analytics.js.download"></script><script src="./كورسات_files/jquery-2.1.4.min.js.download"></script>
+    <script src="./كورسات_files/bootstrap.min.js.download"></script>
+    <script src="./كورسات_files/rating.js.download"></script>
+    <script src="./كورسات_files/plugins.js.download"></script>
+        <title>Core Courses</title>
+    </head>
+<body>
+    <!--Navbar-->
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+        <a class="navbar-brand" href="Home.aspx"><img src="logo.png" height="75px" alt="Co"></a>
+    </div>
+<!-- Navbar Right -->
+
+<div class="collapse navbar-collapse js-navbar-collapse" id="ournavbar">
+
+<ul class="nav navbar-nav navbar-left">
+              <li>    <img src="login.PNG" height="80px"/></li>
+            <li><a href="Register.aspx"> Register</a></li>
+            <li><img src="reg.PNG"  height="80px"/></li>
+            <li><a href="Login.aspx" > Login</a></li>
+            
+ </ul>
+</div>
+</div>
+</nav>
+    <div style="height:500px; width:550px; background-color:#E6E6FA	;margin-top:50px ;border-radius:10px;margin-left:400px;">
+    <form id="form1" runat="server">
+        
+
+<asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+    </asp:ContentPlaceHolder>
+        
+    </form>
+        </div>
+    <div class="footer text-center">
+
+    <div class="container">
+         <ul class="list-unstyled footer-links">
+        <li><a href=" ">About CoreCourses</a></li>
+        <li><a href=" ">Contact us</a></li>
+    </ul>
+
+    <div>
+        <ul class="list-unstyled footer-social">
+            <li><a href="https://twitter.com/CoreCourse">twitter  </a></li>
+            <li><a href="https://www.facebook.com/CoreCourse"> facebook  </a></li>
+        </ul>
+    </div>    
+</div>
+
+<div class="copyright text-center">
+© 2017 <span><a href=" ">Core Courses</a></span> 
+</div>
+    
+</div>
+
+</body>
+</html>
+

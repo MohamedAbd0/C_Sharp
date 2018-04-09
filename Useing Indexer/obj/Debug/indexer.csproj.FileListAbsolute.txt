@@ -1,0 +1,9 @@
+C:\Users\moham\Desktop\Home Work\Lab_Day4\magic box\indexer\obj\Debug\indexer.csprojResolveAssemblyReference.cache
+C:\Users\moham\Desktop\Home Work\Lab_Day4\magic box\indexer\bin\Debug\indexer.exe.config
+C:\Users\moham\Desktop\Home Work\Lab_Day4\magic box\indexer\bin\Debug\indexer.exe
+C:\Users\moham\Desktop\Home Work\Lab_Day4\magic box\indexer\bin\Debug\indexer.pdb
+C:\Users\moham\Desktop\Home Work\Lab_Day4\magic box\indexer\obj\Debug\indexer.exe
+C:\Users\moham\Desktop\Home Work\Lab_Day4\magic box\indexer\obj\Debug\indexer.pdb
+C:\Users\moham\Desktop\Home Work\Task G3D4\indexer\bin\Debug\indexer.exe.config
+C:\Users\moham\Desktop\Home Work\Task G3D4\indexer\obj\Debug\indexer.exe
+C:\Users\moham\Desktop\Home Work\Task G3D4\indexer\obj\Debug\indexer.pdb

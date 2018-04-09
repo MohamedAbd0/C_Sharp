@@ -1,0 +1,12 @@
+E:\university\مشاريع\os project\os project\os project\bin\Debug\os project.exe.config
+E:\university\مشاريع\os project\os project\os project\bin\Debug\os project.exe
+E:\university\مشاريع\os project\os project\os project\bin\Debug\os project.pdb
+E:\university\مشاريع\os project\os project\os project\obj\Debug\os project.csprojResolveAssemblyReference.cache
+E:\university\مشاريع\os project\os project\os project\obj\Debug\os_project.Form1.resources
+E:\university\مشاريع\os project\os project\os project\obj\Debug\os_project.Properties.Resources.resources
+E:\university\مشاريع\os project\os project\os project\obj\Debug\os project.csproj.GenerateResource.Cache
+E:\university\مشاريع\os project\os project\os project\obj\Debug\os project.exe
+E:\university\مشاريع\os project\os project\os project\obj\Debug\os project.pdb
+C:\Users\moham_000\Desktop\os project\os project\bin\Debug\os project.exe.config
+C:\Users\moham_000\Desktop\os project\os project\obj\Debug\os project.exe
+C:\Users\moham_000\Desktop\os project\os project\obj\Debug\os project.pdb

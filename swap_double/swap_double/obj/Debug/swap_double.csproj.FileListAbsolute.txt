@@ -1,0 +1,15 @@
+E:\new horision\new apps\swap_double\swap_double\bin\Debug\swap_double.exe.config
+E:\new horision\new apps\swap_double\swap_double\bin\Debug\swap_double.exe
+E:\new horision\new apps\swap_double\swap_double\bin\Debug\swap_double.pdb
+E:\new horision\new apps\swap_double\swap_double\obj\Debug\swap_double.csprojResolveAssemblyReference.cache
+E:\new horision\new apps\swap_double\swap_double\obj\Debug\swap_double.Form1.resources
+E:\new horision\new apps\swap_double\swap_double\obj\Debug\swap_double.Properties.Resources.resources
+E:\new horision\new apps\swap_double\swap_double\obj\Debug\swap_double.csproj.GenerateResource.Cache
+E:\new horision\new apps\swap_double\swap_double\obj\Debug\swap_double.exe
+E:\new horision\new apps\swap_double\swap_double\obj\Debug\swap_double.pdb
+C:\Users\Ahmed\Desktop\task eng_amr\swap_double\swap_double\bin\Debug\swap_double.exe.config
+C:\Users\Ahmed\Desktop\task eng_amr\swap_double\swap_double\obj\Debug\swap_double.exe
+C:\Users\Ahmed\Desktop\task eng_amr\swap_double\swap_double\obj\Debug\swap_double.pdb
+E:\PC\facebook-M0hamed3bdo\messages\files\files\task\swap_double\swap_double\bin\Debug\swap_double.exe.config
+E:\PC\facebook-M0hamed3bdo\messages\files\files\task\swap_double\swap_double\obj\Debug\swap_double.exe
+E:\PC\facebook-M0hamed3bdo\messages\files\files\task\swap_double\swap_double\obj\Debug\swap_double.pdb

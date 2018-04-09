@@ -1,0 +1,9 @@
+E:\university\Project  ai_3rd\Project  ai_3rd\bin\Debug\Project  ai_3rd.exe.config
+E:\university\Project  ai_3rd\Project  ai_3rd\bin\Debug\Project  ai_3rd.exe
+E:\university\Project  ai_3rd\Project  ai_3rd\bin\Debug\Project  ai_3rd.pdb
+E:\university\Project  ai_3rd\Project  ai_3rd\obj\Debug\Project  ai_3rd.csprojResolveAssemblyReference.cache
+E:\university\Project  ai_3rd\Project  ai_3rd\obj\Debug\Project__ai_3rd.Form1.resources
+E:\university\Project  ai_3rd\Project  ai_3rd\obj\Debug\Project__ai_3rd.Properties.Resources.resources
+E:\university\Project  ai_3rd\Project  ai_3rd\obj\Debug\Project  ai_3rd.csproj.GenerateResource.Cache
+E:\university\Project  ai_3rd\Project  ai_3rd\obj\Debug\Project  ai_3rd.exe
+E:\university\Project  ai_3rd\Project  ai_3rd\obj\Debug\Project  ai_3rd.pdb

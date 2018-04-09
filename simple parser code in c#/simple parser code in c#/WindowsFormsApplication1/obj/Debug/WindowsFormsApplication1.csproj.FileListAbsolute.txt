@@ -1,0 +1,11 @@
+E:\university\third CS\Term 2\Concepts of Programming Languages\سكشن م.اميرة\task-fun-class\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\university\third CS\Term 2\Concepts of Programming Languages\سكشن م.اميرة\task-fun-class\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\university\third CS\Term 2\Concepts of Programming Languages\سكشن م.اميرة\task-fun-class\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\university\third CS\Term 2\Concepts of Programming Languages\سكشن م.اميرة\task-fun-class\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CalithaLib.dll
+E:\university\third CS\Term 2\Concepts of Programming Languages\سكشن م.اميرة\task-fun-class\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\GoldParserEngine.dll
+E:\university\third CS\Term 2\Concepts of Programming Languages\سكشن م.اميرة\task-fun-class\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\university\third CS\Term 2\Concepts of Programming Languages\سكشن م.اميرة\task-fun-class\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\university\third CS\Term 2\Concepts of Programming Languages\سكشن م.اميرة\task-fun-class\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\university\third CS\Term 2\Concepts of Programming Languages\سكشن م.اميرة\task-fun-class\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\university\third CS\Term 2\Concepts of Programming Languages\سكشن م.اميرة\task-fun-class\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\university\third CS\Term 2\Concepts of Programming Languages\سكشن م.اميرة\task-fun-class\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

@@ -1,0 +1,12 @@
+C:\Users\Mohamed\Desktop\Ex\Ex\bin\Debug\Ex.exe.config
+C:\Users\Mohamed\Desktop\Ex\Ex\bin\Debug\Ex.exe
+C:\Users\Mohamed\Desktop\Ex\Ex\bin\Debug\Ex.pdb
+C:\Users\Mohamed\Desktop\Ex\Ex\obj\Debug\Ex.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Desktop\Ex\Ex\obj\Debug\Ex.exe
+C:\Users\Mohamed\Desktop\Ex\Ex\obj\Debug\Ex.pdb
+E:\PC\facebook-M0hamed3bdo\messages\files\files\Ex\Ex\bin\Debug\Ex.exe.config
+E:\PC\facebook-M0hamed3bdo\messages\files\files\Ex\Ex\obj\Debug\Ex.exe
+E:\PC\facebook-M0hamed3bdo\messages\files\files\Ex\Ex\obj\Debug\Ex.pdb
+E:\PC\facebook-M0hamed3bdo\messages\files\files\Ex\Ex\bin\Debug\Ex.exe
+E:\PC\facebook-M0hamed3bdo\messages\files\files\Ex\Ex\bin\Debug\Ex.pdb
+E:\PC\facebook-M0hamed3bdo\messages\files\files\Ex\Ex\obj\Debug\Ex.csprojResolveAssemblyReference.cache

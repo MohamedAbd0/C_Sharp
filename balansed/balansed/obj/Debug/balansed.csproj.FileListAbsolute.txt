@@ -1,0 +1,21 @@
+E:\new horision\new apps\balansed\balansed\bin\Debug\balansed.exe.config
+E:\new horision\new apps\balansed\balansed\bin\Debug\balansed.exe
+E:\new horision\new apps\balansed\balansed\bin\Debug\balansed.pdb
+E:\new horision\new apps\balansed\balansed\obj\Debug\balansed.csprojResolveAssemblyReference.cache
+E:\new horision\new apps\balansed\balansed\obj\Debug\balansed.Form1.resources
+E:\new horision\new apps\balansed\balansed\obj\Debug\balansed.Properties.Resources.resources
+E:\new horision\new apps\balansed\balansed\obj\Debug\balansed.csproj.GenerateResource.Cache
+E:\new horision\new apps\balansed\balansed\obj\Debug\balansed.exe
+E:\new horision\new apps\balansed\balansed\obj\Debug\balansed.pdb
+C:\Users\Ahmed\Desktop\task eng_amr\balansed\balansed\bin\Debug\balansed.exe.config
+C:\Users\Ahmed\Desktop\task eng_amr\balansed\balansed\obj\Debug\balansed.exe
+C:\Users\Ahmed\Desktop\task eng_amr\balansed\balansed\obj\Debug\balansed.pdb
+E:\PC\facebook-M0hamed3bdo\messages\files\files\task\balansed\balansed\bin\Debug\balansed.exe.config
+E:\PC\facebook-M0hamed3bdo\messages\files\files\task\balansed\balansed\obj\Debug\balansed.exe
+E:\PC\facebook-M0hamed3bdo\messages\files\files\task\balansed\balansed\obj\Debug\balansed.pdb
+E:\PC\facebook-M0hamed3bdo\messages\files\files\task\balansed\balansed\bin\Debug\balansed.exe
+E:\PC\facebook-M0hamed3bdo\messages\files\files\task\balansed\balansed\bin\Debug\balansed.pdb
+E:\PC\facebook-M0hamed3bdo\messages\files\files\task\balansed\balansed\obj\Debug\balansed.csprojResolveAssemblyReference.cache
+E:\PC\facebook-M0hamed3bdo\messages\files\files\task\balansed\balansed\obj\Debug\balansed.Form1.resources
+E:\PC\facebook-M0hamed3bdo\messages\files\files\task\balansed\balansed\obj\Debug\balansed.Properties.Resources.resources
+E:\PC\facebook-M0hamed3bdo\messages\files\files\task\balansed\balansed\obj\Debug\balansed.csproj.GenerateResource.Cache

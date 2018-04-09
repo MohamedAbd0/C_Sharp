@@ -1,0 +1,78 @@
+"Start Symbol" =<prog>
+!==========================================================================
+Identifier={Letter}+
+Num={Digit}+['.'{Digit}+] 
+!=====================                          
+<prog> ::= '{' <stmt-list> '}'
+<stmt-list> ::= <stmt>';'
+            |<stmt>';'<stmt-list>
+
+<stmt>::=<assign>
+       |<if-stmt> 
+       |<switch-case>
+       |<for-stmt>
+       |<while-stmt>
+       |<fun-stmt>
+       |<class-stmt>
+      
+       
+!================================Assignment statement==================================
+
+<assign> ::=Identifier'='<expr>
+       
+<expr> ::= <term>'+'<expr>
+         |<term>'-'<expr>
+         |<term>
+      
+<term>::=<factor>'*'<term>
+        |<factor>'/'<term>
+        |<factor>'%'<term>
+        |<factor>
+        
+<factor>::='('<expr>')'
+         |Identifier
+         |Num
+ !============= logice expretion============
+<logic-expr>::=<expr><op><expr>
+ <op>::= '<' | '>' | '<=' | '>=' | '==' | '!='
+      
+ !============================= Control statement ==================================
+
+                !==============If================
+<if-stmt>::= if '('<logic-expr>')'then <stmt-list>
+          |if '('<logic-expr>')'then <stmt-list> else <stmt-list>
+                !============= Switch Case ======
+<switch-case>::= switch '(' Identifier ')''{' <cases> default ':' <stmt-list> '}'
+<cases>::= case <literal> ':' <stmt-list>   break ';'
+          | case <literal> ':' <stmt-list>  break ';' <cases> 
+<literal>::= Identifier
+             | Num
+             
+!===============================Loop statement=======================================
+                !============== for ==============
+<for-stmt>::= for '('<types><assign>';'<logic-expr>';'<inc>')''{'<stmt-list>'}'           
+<types>::= int|double|string|char        
+<inc>::= Identifier'++'
+       |Identifier '--'
+               !==============do-while loop=========
+<while-stmt>::= do '('<stmt-list>')' while '('<logic-expr>')'
+
+              !===============while loop============
+<while-stmt>::=while '('<logic-expr>')'then <stmt-list>
+
+!===============================Function implementation============================
+<fun-stmt> ::= <acces-mod> <types> Identifier '(' <parm> ')' '{' return <stmt-list> '}'
+            |<acces-mod> <types> Identifier '(' ')' '{'return <stmt-list> '}'
+            |<acces-mod> void Identifier '(' ')' '{' <stmt-list> '}'    
+            |<acces-mod> void Identifier '(' <parm> ')' '{' <stmt-list> '}'  
+<acces-mod> ::= public
+              |private
+<parm> ::=<types> Identifier
+        |<types> Identifier ',' <parm>
+        
+!================================= Class implementation =================================
+<class-stmt> ::= <acces-mod> class Identifier '('')''{' <variable> <const> <fun-stmt>  '}'
+<variable> ::= <types> Identifier ';'
+<const> ::= public Identifier '('<variable>')''{'<assign>'}'
+
+
